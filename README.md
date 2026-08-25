@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1565c0,50:0288d1,100:00bcd4&height=220&section=header&text=Subhranik%20Kar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20%7C%20AI%20Engineer&descAlignY=60&descSize=22&descColor=e0f7fa)
+![header](https://raw.githubusercontent.com/subhranikkar-asgard/subhranikkar-asgard/main/assets/banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Web+Dev+Enthusiast+%F0%9F%8C%90;Blockchain+Builder+%F0%9F%94%97;LLM+%26+AI+Engineer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%9A%80)](https://git.io/typing-svg)
 
