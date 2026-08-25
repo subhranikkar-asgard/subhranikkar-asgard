@@ -13,14 +13,24 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name       : Subhranik Kar
-username   : subhranikkar-asgard
-focus      : Full Stack Dev · Blockchain · AI/LLM Engineering · UI/UX
-currently  : Building PharmaTrace 💊 — Blockchain-powered medicine verification
-passion    : Solving real-world problems with cutting-edge tech
-motto      : "Code with purpose. Build with impact."
-```
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### Hey, I'm **Subhranik Kar** 👋
+> *A developer who doesn't just write code — I architect experiences.*
+
+🔭 &nbsp;Currently building **PharmaTrace** — a blockchain-powered platform to eliminate counterfeit medicines from the supply chain  
+🧠 &nbsp;Deep into **LLM Prompt Engineering**, **Blockchain DApps**, and **Predictive Modeling**  
+🎨 &nbsp;Passionate about crafting clean, intuitive **UI/UX** that users actually love  
+⚡ &nbsp;I bridge the gap between **intelligent systems** and **real-world impact**  
+🌱 &nbsp;Always learning, always shipping — consistency is my superpower  
+💬 &nbsp;Ask me about **React**, **Python**, **API Integration**, or **AI workflows**  
+🎯 &nbsp;Open to **collaborations**, **open source**, and **innovative projects**
+
+<br/>
+
+| 🏠 Based in | 🔧 Crafting | 💡 Driven by |
+|:---:|:---:|:---:|
+| India 🇮🇳 | Code · Design · AI | Impact & Innovation |
 
 ---
 
