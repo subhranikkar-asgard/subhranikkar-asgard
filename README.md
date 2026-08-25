@@ -1,10 +1,13 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Subhranik+Kar+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Blockchain+%7C+LLM+%7C+UI%2FUX+Designer;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Subhranik%20Kar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20%7C%20AI%20Engineer&descAlignY=62&descSize=20)
 
-<!-- Visitor Counter -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Web+Dev+Enthusiast+%F0%9F%8C%90;Blockchain+Builder+%F0%9F%94%97;LLM+%26+AI+Engineer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
 ![Visitors](https://komarev.com/ghpvc/?username=subhranikkar-asgard&color=00d4ff&style=flat-square&label=Profile+Views)
+![Status](https://img.shields.io/badge/Status-Open%20To%20Work%20✅-brightgreen?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhranik-kar-48937720a/)
 
 </div>
@@ -91,6 +94,20 @@ PharmaTrace tracks every drug unit from **manufacturer → distributor → pharm
 | 🧩 Problem Solver | 🌐 Web3 Builder | 🤖 AI Tinkerer | ☕ Fueled by |
 |:---:|:---:|:---:|:---:|
 | Breaking complex problems into elegant solutions | Decentralizing trust, one block at a time | Teaching machines to think smarter | Coffee & Curiosity |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhranikkar-asgard&theme=tokyonight" width="95%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhranikkar-asgard&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhranikkar-asgard&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhranikkar-asgard&theme=tokyonight" width="32%"/>
 
 </div>
 
