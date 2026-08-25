@@ -13,24 +13,31 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
 
-### Hey, I'm **Subhranik Kar** 👋
-> *A developer who doesn't just write code — I architect experiences.*
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
 
-🔭 &nbsp;Currently building **PharmaTrace** — a blockchain-powered platform to eliminate counterfeit medicines from the supply chain  
-🧠 &nbsp;Deep into **LLM Prompt Engineering**, **Blockchain DApps**, and **Predictive Modeling**  
-🎨 &nbsp;Passionate about crafting clean, intuitive **UI/UX** that users actually love  
-⚡ &nbsp;I bridge the gap between **intelligent systems** and **real-world impact**  
-🌱 &nbsp;Always learning, always shipping — consistency is my superpower  
-💬 &nbsp;Ask me about **React**, **Python**, **API Integration**, or **AI workflows**  
-🎯 &nbsp;Open to **collaborations**, **open source**, and **innovative projects**
+<br/><br/>
+
+> ### *"A developer who doesn't just write code — I architect experiences."*
 
 <br/>
 
-| 🏠 Based in | 🔧 Crafting | 💡 Driven by |
+| 🧠 Who I Am | 🚀 What I Build | 🌍 Where I Am |
 |:---:|:---:|:---:|
-| India 🇮🇳 | Code · Design · AI | Impact & Innovation |
+| Full Stack Dev & AI Engineer | Blockchain · LLM · UI/UX | India 🇮🇳 |
+
+<br/>
+
+| 🔭 Currently | 🌱 Learning | 💬 Ask Me About | 🎯 Open To |
+|:---:|:---:|:---:|:---:|
+| Building **PharmaTrace** | Web3 · GenAI | React · Python · APIs | Collabs & Open Source |
+
+</div>
+
+<br/>
+
+> 💡 I bridge the gap between **intelligent systems** and **real-world impact** — always learning, always shipping.
 
 ---
 
@@ -76,14 +83,13 @@ PharmaTrace tracks every drug unit from **manufacturer → distributor → pharm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhranikkar-asgard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranikkar-asgard&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=subhranikkar-asgard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranikkar-asgard&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=subhranikkar-asgard&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranikkar-asgard&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -93,7 +99,7 @@ PharmaTrace tracks every drug unit from **manufacturer → distributor → pharm
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=subhranikkar-asgard&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=subhranikkar-asgard&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" width="95%"/>
 
 </div>
 
