@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=0:0d0d2b,50:1a1a6e,100:4e54c8&height=230&section=header&text=Subhranik%20Kar&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20%7C%20AI%20Engineer&descAlignY=63&descSize=20&descColor=00D4FF)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:12c2e9,50:c471ed,100:f64f59&height=200&text=Subhranik%20Kar&fontAlign=25&rotate=13&fontAlignY=25&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20%7C%20AI%20Engineer&descAlign=55&descAlignY=45&descSize=18&fontColor=ffffff&fontSize=55&animation=scaleIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Web+Dev+Enthusiast+%F0%9F%8C%90;Blockchain+Builder+%F0%9F%94%97;LLM+%26+AI+Engineer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%9A%80)](https://git.io/typing-svg)
 
