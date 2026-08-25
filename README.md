@@ -72,19 +72,23 @@ PharmaTrace tracks every drug unit from **manufacturer → distributor → pharm
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Skills at a Glance
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=subhranikkar-asgard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranikkar-asgard&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=linux,git,arduino,figma,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
+---
+
+## 📊 GitHub Contribution Graph
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranikkar-asgard&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+<img src="https://ghchart.rshah.org/00d4ff/subhranikkar-asgard" alt="Subhranik's GitHub Contribution Chart" width="95%"/>
 
 </div>
 
