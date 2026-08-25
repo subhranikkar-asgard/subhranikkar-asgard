@@ -1,0 +1,64 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="0">
+      <!-- Left color cycles: Blue → Purple → Red → Teal → Orange → Blue -->
+      <stop offset="0%">
+        <animate attributeName="stop-color"
+          values="#1565c0;#6a0dad;#b71c1c;#00695c;#e65100;#1565c0"
+          dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <!-- Mid color -->
+      <stop offset="50%">
+        <animate attributeName="stop-color"
+          values="#0288d1;#8e24aa;#e53935;#00897b;#f57c00;#0288d1"
+          dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <!-- Right color -->
+      <stop offset="100%">
+        <animate attributeName="stop-color"
+          values="#00bcd4;#ab47bc;#ef5350;#26a69a;#ffa726;#00bcd4"
+          dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Darker overlay gradient for wave depth -->
+    <linearGradient id="wave-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%">
+        <animate attributeName="stop-color"
+          values="#0d47a1;#4a0072;#7f0000;#004d40;#bf360c;#0d47a1"
+          dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color"
+          values="#006064;#6a1b9a;#b71c1c;#00695c;#e65100;#006064"
+          dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Full background -->
+  <rect width="900" height="220" fill="url(#bg-grad)"/>
+
+  <!-- Wave layers at bottom for depth -->
+  <path d="M0,155 C120,185 280,125 450,160 C620,195 780,135 900,158 L900,220 L0,220 Z"
+        fill="url(#wave-grad)" opacity="0.45"/>
+  <path d="M0,170 C180,145 360,200 540,170 C720,140 840,190 900,172 L900,220 L0,220 Z"
+        fill="rgba(0,0,0,0.25)"/>
+
+  <!-- Name text -->
+  <text x="450" y="92"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="58"
+        font-weight="900"
+        fill="white"
+        text-anchor="middle"
+        letter-spacing="1">Subhranik Kar</text>
+
+  <!-- Subtitle text -->
+  <text x="450" y="138"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="20"
+        fill="rgba(255,255,255,0.92)"
+        text-anchor="middle"
+        letter-spacing="0.5">Full Stack Developer | Blockchain | AI Engineer</text>
+</svg>
