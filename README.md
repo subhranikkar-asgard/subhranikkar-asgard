@@ -84,16 +84,6 @@ PharmaTrace tracks every drug unit from **manufacturer → distributor → pharm
 
 ---
 
-## 📊 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00d4ff/subhranikkar-asgard" alt="Subhranik's GitHub Contribution Chart" width="95%"/>
-
-</div>
-
----
-
 ## ⚡ Fun Facts
 
 <div align="center">
