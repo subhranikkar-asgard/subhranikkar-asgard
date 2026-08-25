@@ -15,7 +15,8 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
+<!-- GitHub-hosted reliable GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding GIF"/>
 
 <br/><br/>
 
@@ -83,13 +84,15 @@ PharmaTrace tracks every drug unit from **manufacturer → distributor → pharm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhranikkar-asgard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranikkar-asgard&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=subhranikkar-asgard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranikkar-asgard&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranikkar-asgard&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranikkar-asgard&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -99,7 +102,7 @@ PharmaTrace tracks every drug unit from **manufacturer → distributor → pharm
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhranikkar-asgard&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=subhranikkar-asgard&theme=tokyonight&no-frame=true&margin-w=15&column=7" width="95%"/>
 
 </div>
 
