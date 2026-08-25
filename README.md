@@ -13,32 +13,24 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<!-- GitHub-hosted reliable GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding GIF"/>
+### Hey, I'm **Subhranik Kar** 👋
+> *A developer who doesn't just write code — I architect experiences.*
 
-<br/><br/>
-
-> ### *"A developer who doesn't just write code — I architect experiences."*
+🔭 &nbsp;Currently building **PharmaTrace** — a blockchain-powered platform to eliminate counterfeit medicines from the supply chain  
+🧠 &nbsp;Deep into **LLM Prompt Engineering**, **Blockchain DApps**, and **Predictive Modeling**  
+🎨 &nbsp;Passionate about crafting clean, intuitive **UI/UX** that users actually love  
+⚡ &nbsp;I bridge the gap between **intelligent systems** and **real-world impact**  
+🌱 &nbsp;Always learning, always shipping — consistency is my superpower  
+💬 &nbsp;Ask me about **React**, **Python**, **API Integration**, or **AI workflows**  
+🎯 &nbsp;Open to **collaborations**, **open source**, and **innovative projects**
 
 <br/>
 
-| 🧠 Who I Am | 🚀 What I Build | 🌍 Where I Am |
+| 🏠 Based in | 🔧 Crafting | 💡 Driven by |
 |:---:|:---:|:---:|
-| Full Stack Dev & AI Engineer | Blockchain · LLM · UI/UX | India 🇮🇳 |
-
-<br/>
-
-| 🔭 Currently | 🌱 Learning | 💬 Ask Me About | 🎯 Open To |
-|:---:|:---:|:---:|:---:|
-| Building **PharmaTrace** | Web3 · GenAI | React · Python · APIs | Collabs & Open Source |
-
-</div>
-
-<br/>
-
-> 💡 I bridge the gap between **intelligent systems** and **real-world impact** — always learning, always shipping.
+| India 🇮🇳 | Code · Design · AI | Impact & Innovation |
 
 ---
 
