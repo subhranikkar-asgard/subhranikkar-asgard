@@ -94,11 +94,13 @@ PharmaTrace tracks every drug unit from **manufacturer → distributor → pharm
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ Fun Facts
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhranikkar-asgard&theme=tokyonight&no-frame=true&margin-w=15&column=7" width="95%"/>
+| 🧩 Problem Solver | 🌐 Web3 Builder | 🤖 AI Tinkerer | ☕ Fueled by |
+|:---:|:---:|:---:|:---:|
+| Breaking complex problems into elegant solutions | Decentralizing trust, one block at a time | Teaching machines to think smarter | Coffee & Curiosity |
 
 </div>
 
